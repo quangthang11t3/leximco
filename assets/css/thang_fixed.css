@@ -1,0 +1,12 @@
+
+.navbar-nav {
+	margin-left: 300px;
+	width: 100%;
+	flex-direction: unset;
+	justify-content: space-between;
+}
+
+.slick-dotted.slick-slider {
+    margin-bottom: 30px;
+    padding: 0;
+}
